@@ -13,4 +13,4 @@ In this challenge, I was given starter code and had to modify it to create a wor
 
 ## Deployed Website
 
-[Work-day Scheduler!](https://trevormcgill.github.io/calendar-app/)
+[Work-day Scheduler!](https://trevormcgill.github.io/Calendar-App/)
